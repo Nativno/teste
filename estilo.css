@@ -10,4 +10,6 @@ main{
     flex-flow: column;
     border-radius:20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+    padding:20px;
+    font-family: myriad web pro;
 }
